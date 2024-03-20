@@ -1,2 +1,2 @@
-# mozi-project-
+# Mozi projekt!
 Mozi
